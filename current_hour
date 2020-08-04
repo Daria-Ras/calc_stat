@@ -10,4 +10,5 @@ for current_hour in range(0, 24):
                     print('Добрый вечер!')
     else:
         print('Доброй ночи!')
+current_hour=17
             
